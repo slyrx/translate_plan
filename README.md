@@ -1,2 +1,2 @@
 # translate_plan
-all article for translate
+all article for translating
