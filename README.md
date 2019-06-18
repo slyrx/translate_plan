@@ -3,4 +3,4 @@ all article for translating
 
 ### 深度学习
 ----
-[联合学习: 无需集中训练的协作机器学习]()
+[联合学习: 无需集中训练的协作机器学习](https://github.com/slyrx/translate_plan/blob/master/Federated_Learning-_Collaborative_Machine_Learning_without_Centralized_Training_Data.md)
