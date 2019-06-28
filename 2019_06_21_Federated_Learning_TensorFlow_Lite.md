@@ -21,6 +21,11 @@
  </center>
 
 紧接着，第一位分享嘉宾Alex Ingerman向大家展示了以联合学习为主题的介绍。分别从用户的隐私安全及Gboard在联合学习方面的应用等做了详细的讲解。
+
+    演讲主题：联合学习介绍 Federated Learning Introduction
+
+    嘉宾介绍：Alex Ingerman 领导 Google Research 的产品管理团队，专注于联合学习和其他用于机器学习的隐私保护技术。 他在2016年加入 Google 之后，开发了包括面向开发人员的基于机器学习的服务平台，网络搜索，内容推荐系统和沉浸式数据探索环境等产品。 Alex 拥有计算机科学学士学位和医学工程硕士学位。
+
 <center class="half">
     <img src="./2019_06_21_pics/_DSC0304_1.jpg" width="200"/> 
     <div align="center">Alex Ingerman</div>
@@ -32,6 +37,10 @@
 </center>
 
 之后，由第二位嘉宾Pete Warden向大家介绍了TensorFlow Lite的研究进展。在现场，Pete还为大家展示了Microcontroller如何对语音输入进行响应。
+
+    演讲主题：TensorFlow Lite介绍 TensorFlow Lite Introduction
+
+    嘉宾介绍：Pete Warden 是 Google Brain 团队中移动和嵌入式 TensorFlow Group 的技术主管。 Pete Warden 将在此次活动中解释如何使用 TensorFlow Lite 开源框架在嵌入式处理器（如微控制器和 DSP ）上运行机器学习模型。他将帮助您了解如何使用一些基础方法，包括硬件，编码工具和构建库，并以在微控制器上运行语音识别为例，提供训练、运行以及部署模型的指导。
 
 <center class="half">
     <img src="./2019_06_21_pics/_DSC0456_1.jpg" width="200"/> 
