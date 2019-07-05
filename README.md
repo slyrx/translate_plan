@@ -1,5 +1,5 @@
 # translate_plan
-all article for translating
+all articles for translating
 
 ### 深度学习
 ----
